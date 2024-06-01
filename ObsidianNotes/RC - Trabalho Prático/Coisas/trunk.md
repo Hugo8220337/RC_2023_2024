@@ -1,0 +1,2 @@
+- O trunk é uma ligação que liga um switch a outro switch, ou um switch a um router
+- O trunk pertence a todas as [[vlans]] na cisco (normalmente), recebe pacotes independentemente da VLAN (pois as VLANS não comunicam com outras VLANS)

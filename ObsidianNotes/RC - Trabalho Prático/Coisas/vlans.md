@@ -1,0 +1,2 @@
+- Uma Vlan é como se eu partisse um switch e criasse vários switches virtuais
+- As Vlans são independentes entre si, não se comunicam umas com as outras, a menos que alguém espete um cabo a ligas as duas portas das vlans diferentes no switch físico (obviamente não é recomendado)

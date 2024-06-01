@@ -1,0 +1,1 @@
+* Como funciona a configuração do IP do router, para colocar o default gateway para a respetiva LAN

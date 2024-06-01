@@ -1,0 +1,1 @@
+**Principal Função**: Interligar redes diferentes
