@@ -6,6 +6,10 @@
   <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Grade&message=19.1&color=sucess"/>
 </p>
 
+
+---
+
+
 # RC_2023_2024
 Planeamento de uma rede para uma empresa
 
